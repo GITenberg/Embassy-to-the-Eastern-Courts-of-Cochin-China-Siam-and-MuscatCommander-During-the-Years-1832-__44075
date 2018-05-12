@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42555'
     url: http://www.gutenberg.org/2009/agents/42555
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44075#Embassy-to-the-Eastern-Courts-of-Cochin-China-Siam-and-MuscatCommander-During-the-Years-1832-_
 gutenberg_issued: '2013-10-30'
 gutenberg_type: Text
 identifiers:
